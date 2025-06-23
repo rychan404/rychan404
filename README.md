@@ -1,5 +1,5 @@
 ## Hi there 👋
-![Banner](/ryan chan banner.png)
+![Banner](/rychanbanner.png)
 <!--
 **rychan404/rychan404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
